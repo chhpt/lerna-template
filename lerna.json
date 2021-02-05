@@ -1,0 +1,5 @@
+{
+  "name": "lerna-template",
+  "version": "0.0.0",
+  "packages": ["packages/*"]
+}
