@@ -1,7 +1,7 @@
 # CloudBase CMS
 
 <p align="center">
-  <img src="" alt="Logo">
+  <img src="./logo.png" alt="Logo">
   <h3 align="center">
     介绍
   </h3>
