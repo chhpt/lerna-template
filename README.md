@@ -1,4 +1,4 @@
-# CloudBase CMS
+# Lerna Template
 
 <p align="center">
   <img src="./logo.png" alt="Logo">
