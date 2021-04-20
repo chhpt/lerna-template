@@ -1,6 +1,7 @@
 {
   "name": "lerna-template",
-  "version": "0.0.1",
+  "version": "independent",
+  "packages": ["packages/*"],
   "npmClient": "yarn",
-  "packages": ["packages/*"]
+  "useWorkspaces": true
 }
